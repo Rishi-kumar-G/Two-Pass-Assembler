@@ -1,0 +1,10 @@
+Line 4 ERROR: Duplicate label definition
+Line 6 ERROR: Invalid format: not a valid label or a number
+Line 7 ERROR: Missing operand
+Line 8 ERROR: unexpected operand
+Line 9 ERROR: extra on end of line
+Line 9 ERROR: Invalid format: not a valid label or a number
+Line 10 ERROR: Bogus Label name
+Line 11 ERROR: Bogus Mnemonic
+Line 12 ERROR: Bogus Mnemonic
+Line 5 ERROR: no such label
